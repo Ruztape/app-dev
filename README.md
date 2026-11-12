@@ -1,4 +1,5 @@
 # app-dev
 My first repository
 
-## **I like Rhythm games**
+## things I like
+*Rhythm games*
